@@ -1,5 +1,4 @@
-# Project 3 for INFO2300
-
-## Collaborated with tg329
+# Created by nlin0 and tg329
+This repo was cloned so that it could be deployed.
 
 
